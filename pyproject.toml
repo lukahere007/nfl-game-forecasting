@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nflstate"
+version = "0.1.0"
+description = "Bayesian state-space (Kalman) team ratings for forecasting NFL games, benchmarked against the closing line"
+authors = [{ name = "Luke Wamalwa" }]
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

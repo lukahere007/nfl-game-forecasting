@@ -1,0 +1,9 @@
+# Raw downloads (re-create with scripts/fetch_data.py)
+data/raw/
+
+# Python
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
