@@ -1,0 +1,13 @@
+season,week,away_team,home_team,away_qb_name,home_qb_name,spread_line,pred_margin,result,model_side,covered,home_qb_change,away_qb_change
+2017,17,SF,LA,Jimmy Garoppolo,Sean Mannion,-6.5,12.0,-21.0,LA,no,1,1
+2020,17,LAC,KC,Justin Herbert,Chad Henne,-7.0,9.9,-17.0,KC,no,1,0
+2023,18,PIT,BAL,Mason Rudolph,Tyler Huntley,-3.0,13.0,-7.0,BAL,no,1,1
+2019,17,PIT,BAL,Devlin Hodges,Robert Griffin,-2.0,12.0,18.0,BAL,yes,1,1
+2025,17,DEN,KC,Bo Nix,Chris Oladokun,-13.5,-0.5,-7.0,KC,yes,1,0
+2016,17,CLE,PIT,Robert Griffin,Landry Jones,3.5,15.6,3.0,PIT,no,1,1
+2024,18,NYG,PHI,Drew Lock,Tanner McKee,3.0,14.5,7.0,PHI,yes,1,1
+2020,17,PIT,CLE,Mason Rudolph,Baker Mayfield,10.5,-0.6,2.0,PIT,yes,0,1
+2022,1,DEN,SEA,Russell Wilson,Geno Smith,-6.0,4.7,1.0,SEA,yes,0,0
+2020,12,NO,DEN,Taysom Hill,Kendall Hinton,-17.0,-6.7,-28.0,DEN,no,1,1
+2021,2,HOU,CLE,Tyrod Taylor,Baker Mayfield,13.5,3.5,10.0,HOU,yes,0,0
+2019,17,CHI,MIN,Mitch Trubisky,Sean Mannion,-5.5,4.1,-2.0,MIN,yes,1,0
